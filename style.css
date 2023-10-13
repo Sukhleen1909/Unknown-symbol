@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+#img{
+    width:800px;
+    height:700px;
+      border-radius: 50%;
+      
+  }
+
+  #myname{
+    font-family: 'Courgette', cursive;
+ }
+
+ #welcome{
+    padding:70px;
+   text-align:center;
+}
+
+#mass{
+    width: 500px;
+    height:500px;
+      border-radius: 30%;
+}
+
+.menu{
+    list-style: none;
+     font-family:cursive;
+    float:right;
+     top:10px;
+     right:30px;
+     cursor: pointer;
+     color:black;
+ }
+
+ .menu a{
+    
+    color:black !important;
+}
+
+.link{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+
+.link:hover{
+    background-color:beige;
+}
+
+#Mywork a, #References a{
+    font-size:30px;
+    
+}
+
+#sym{
+    width:1000px;
+    height:1000px;
+      border-radius: 20%;
+}
+
+.mon{
+    font-style: italic;
+    font-size: medium;
+}
+
+.pic{
+  font-weight: bold; 
+  font-size: 100px; 
+}
+
+.use{
+    font-size: 100px;
+    font-weight: bold;  
+}
+
+.abo{
+    font-size: 100px;
+    font-weight: bold;  
+}
